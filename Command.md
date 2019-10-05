@@ -12,4 +12,11 @@ How do you use it?
 
 * Here is a tutorial on how to use the Command Line: 
 
+CD:
+
+* cd takes a directory name as an argument, and switches into that directory. to navigate directly to a directory, use cd with the direcory's path. 
+
+	Example:
+         (Insert image) 
+
 
