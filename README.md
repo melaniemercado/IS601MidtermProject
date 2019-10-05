@@ -5,4 +5,4 @@ Melanie Mercado and
 Ali Farrag
 
 
-* (Command Line Tutorial)(/Command.md)
+* [Command Line Tutorial](/Command.md)
