@@ -4,5 +4,9 @@
 
 Here is a high-level summary of the workflow:
 
-![](https://picasaweb.google.com/109737712547727666783/6744428778604783313#6744428778010162370 "gitFlow summary")
+![gitflow summary](https://lh3.googleusercontent.com/uNFxizMXUo9QAih-JVGVLPv7K_5j2wzFTSTDguPJhhQrJLk8SZcevKm4gUyLuF8rOx8LkhN6UyI "gitFlow Image")
+
+We will cover all stages of deployment in this tutorial.
+
+
 
