@@ -17,7 +17,7 @@ How do you use it?
 * cd takes a directory name as an argument, and switches into that directory. to navigate directly to a directory, use cd with the direcory's path. 
 
 	Example:
-        ![CD example](/CD.png)
+        ![CD example] (/CD.png)
 
  
 
