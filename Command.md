@@ -39,4 +39,10 @@ How do you use it?
 	
 	* The mv command allows you to move one file from one directory into another. To move a file into a directory, use mv with the source file as the first argument and destination directory as the second argument. 
 
+	* Example: Image
+
+ RM: 
+
+	* The rm command is when you want to delete a file. This could be used when you no longer need a file or image.
+
 	* Example: Image 
