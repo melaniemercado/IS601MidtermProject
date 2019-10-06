@@ -30,6 +30,13 @@ How do you use it?
 	* Example: Image
   
  PWD:
+
 	* pwd prints the name of the working directory. This will allow you to always know what directory you are working in if you ever forget.
 	
+        * Example: Image
+
+ MV: 
+	
+	* The mv command allows you to move one file from one directory into another. To move a file into a directory, use mv with the source file as the first argument and destination directory as the second argument. 
+
 	* Example: Image 
