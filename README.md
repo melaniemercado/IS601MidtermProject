@@ -11,7 +11,7 @@ Table of Contents:
 
 Tasks:
 - [ ] Create and complete README.md file
-- [X ] Create and complete Command.md file
+- [X] Create and complete Command.md file
 	- [X] Cd
 	- [X] Mkdir
 	- [ ] Cp
