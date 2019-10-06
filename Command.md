@@ -14,16 +14,19 @@ How do you use it?
 
   CD:
 
-* cd takes a directory name as an argument, and switches into that directory. To navigate directly to a directory, use cd with the direcory's path. 
+	* cd takes a directory name as an argument, and switches into that directory. To navigate directly to a directory, use cd with the direcory's path. 
 
 	Example:
         ![Image of Yaktocat](/CD.png)
 
 
   MKDIR:
-* mkdir takes in a directory name as an argument, and then creates a new directory in the current working directory. Here we use mkdir to create a new directory named media. 
+	* mkdir takes in a directory name as an argument, and then creates a new directory in the current working directory. Here we use mkdir to create a new directory named media. 
 
 	Example:
 	image  
 
-
+  CP:
+	*cp copies files or directories. It can be used when you want to copy an image, or files into another location. 
+	Example:
+	image
