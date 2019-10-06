@@ -27,6 +27,7 @@ How do you use it?
 	image  
 
   CP:
+	
 	*cp copies files or directories. It can be used when you want to copy an image, or files into another location. 
-	Example:
-	image
+	-Example:
+         -image
