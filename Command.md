@@ -14,26 +14,28 @@ How do you use it?
 
 CD:
 
-	* cd takes a directory name as an argument, and switches into that directory. To navigate directly to a directory, use cd with the direcory's path. 
+* cd takes a directory name as an argument, and switches into that directory. To navigate directly to a directory, use cd with the direcory's path. 
 
-	* Example: Image
+* Example: Image
 
 
 MKDIR:
-	* mkdir takes in a directory name as an argument, and then creates a new directory in the current working directory. Here we use mkdir to create a new directory named media. 
+	
+* mkdir takes in a directory name as an argument, and then creates a new directory in the current working directory. Here we use mkdir to create a new directory named media. 
 
-	* Example: Image
+* Example: Image
 
 CP:
 	
-	* cp copies files or directories. It can be used when you want to copy an image, or files into another location. 
-	* Example: Image
+* cp copies files or directories. It can be used when you want to copy an image, or files into another location. 
+
+* Example: Image
   
 PWD:
 
-	* pwd prints the name of the working directory. This will allow you to always know what directory you are working in if you ever forget.
+* pwd prints the name of the working directory. This will allow you to always know what directory you are working in if you ever forget.
 	
-        * Example: Image
+* Example: Image
 MV: 
 	
 * The mv command allows you to move one file from one directory into another. To move a file into a directory, use mv with the source file as the first argument and destination directory as the second argument. 
