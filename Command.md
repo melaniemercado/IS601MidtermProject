@@ -16,7 +16,7 @@ CD:
 
 * cd takes a directory name as an argument, and switches into that directory. To navigate directly to a directory, use cd with the direcory's path. 
 
-* ![CD example] (/images2/CD.png)
+* ![CD example](/images2/CD.png)
 
 
 MKDIR:
