@@ -45,3 +45,13 @@ In terminal, you can achieve this by entering: $ git branch [nameofbranch]
 In the visual below, the new branch named "newImage" now refers to "C1", eg. $ git branch newImage
 
 <img src="https://lh3.googleusercontent.com/-W8nMI1o8RgjXOy_f_6OLgBZUQjlA5XEp3-RN3f_JbGyJrlowtm35jTGdKHNaZ38-pPnzBoGhz8" width=400>
+
+## Merge
+
+Merging allows you to take independent lines of development created by $ git branch and integrate them, mostly likely back to the master branch or central repository. For example, let's say you branched off the master to make some changes to the website and you're ready to integrate your changes. The commit on the branch you're on won't be a direct ancestor of the branch you're merging into so Git has to do some work around this. Basically, Git will create a new commit that points to this merge
+
+In terminal, you can achieve this by entering: $ git merge [nameofwork]
+
+In the visual below, the new branch named "bugFix" in "C2" refers to your changes and "C4" refers to Git creating the new commit merging changes, ie. $ git merge bugFix.
+
+<img src="https://lh3.googleusercontent.com/J-fvRTCK_f3SQJoF3_ZxvSrHfoPdhnZ_wOvYJN9BnTp8u5ESMo51D2QvyvOWRGAcbcf5x7fO81A" width=400>
