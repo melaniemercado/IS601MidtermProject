@@ -2,22 +2,31 @@
 
 What is the Command Line?
 
-* The command line is a text interface for your computer. It's a program that takes in commands, which it passes on to the computer's operating system to run. 
+* The **command line** is a *text interface for your computer*. It's a program that takes in commands, which it passes on to the computer's operating system to run. 
 
 Why do you do you use it?
 
-* From the command line, you can navigate through files and folders on your computer, just as you would with your Windows Explorer on Windows or Finder on MAC OS. The difference is that the command line is fully text-based.
+* From the command line, you can navigate through **files** and **folders** on your computer, just as you would with your Windows Explorer on Windows or Finder on MAC OS. The difference is that the **command line is fully text-based**.
  
 How do you use it?
 
-* Here is a tutorial on how to use the Command Line: 
+* In order to use the command line, one has to understand the various commands. In order to access the command line,you have to use your **Terminal**. The terminal where you would use the commands that will be explained later in this tutorial. Below is an example of what the terminal looks like. 
+
+ ![Terminal example](/images2/CL.png)
+
+
+
+ Here is a tutorial on how to use these commands!
+
+ 
 
 CD:
 
-* cd takes a directory name as an argument, and switches into that directory. To navigate directly to a directory, use cd with the direcory's path. 
+- ** CD** takes a directory name as an *argument*, and switches into that directory. To navigate directly to a directory, use cd with the direcory's path. 
 
  ![CD example](/images2/CD.png)
 
+-  This example shows the user swtiching into the desktop directory. By simply typing 'CD' and then the directory name, you will find yourself in that directory.  
 
 
 MKDIR:
