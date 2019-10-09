@@ -24,7 +24,7 @@ Tasks:
 	- [ ] Using the tab key to complete file paths
 	- [ ] Using up and down arrow for history
 - [ ] Create and complete gitFlow.md file
-	- [ ] Repository
+	- [X] Repository
 	- [ ] Clone
 	- [ ] Fork
 	- [ ] Branch
