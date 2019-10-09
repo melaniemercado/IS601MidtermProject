@@ -35,3 +35,13 @@ In terminal, you can achieve this by entering: $ git commit
 In the visual shown below, a commit looks as simple as another recorded snapshot of changes or "C2" 
 
 <img src="https://lh3.googleusercontent.com/4W5_UgA3GTftLRcE_WhJBaovioDrUt9fhNgsK-n2P3cv-91rUz5__HdE35MtpSglzblAOkNjYYQ" width=400>
+
+## Branch
+
+Let's say you're doing some work on a website and your employer tells you there's an urgent fix that needs to be applied on a different section of the website. You don't need to deploy your fix or put a lot of effort to revert your changes. All you have to do is switch to the production master branch, create a branch to make your changes, merge the branch, and deploy to production. Then you can switch back to your branch and continue your own work. 
+
+In terminal, you can achieve this by entering: $ git branch [nameofbranch]
+
+In the visual below, the new branch named "newImage" now refers to "C1", eg. $ git branch newImage
+
+<img src="https://lh3.googleusercontent.com/-W8nMI1o8RgjXOy_f_6OLgBZUQjlA5XEp3-RN3f_JbGyJrlowtm35jTGdKHNaZ38-pPnzBoGhz8" width=400>
