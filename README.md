@@ -27,9 +27,9 @@ Tasks:
 	- [X] Repository
 	- [ ] Clone
 	- [ ] Fork
-	- [ ] Branch
-	- [ ] Commit
-	- [ ] Merge
+	- [X] Branch
+	- [X] Commit
+	- [X] Merge
 	- [ ] Checkout
 	- [ ] Push
 	- [ ] Pull
