@@ -16,7 +16,7 @@ CD:
 
 * cd takes a directory name as an argument, and switches into that directory. To navigate directly to a directory, use cd with the direcory's path. 
 
-* ![CD example](/images2/CD.png)
+ ![CD example](/images2/CD.png)
 
 
 
@@ -24,19 +24,21 @@ MKDIR:
 	
 * mkdir takes in a directory name as an argument, and then creates a new directory in the current working directory. Here we use mkdir to create a new directory named media. 
 
-* Example: Image
+ ![MKDIR example](/images2/MKDIR.png)
 
 CP:
 	
 * cp copies files or directories. It can be used when you want to copy an image, or files into another location. 
 
-* Example: Image
+ ![CP example](/images2/CP.png)
   
 PWD:
 
 * pwd prints the name of the working directory. This will allow you to always know what directory you are working in if you ever forget.
 	
-* Example: Image
+ ![PWD  example](/images2/PWD.png)
+
+
 MV: 
 	
 * The mv command allows you to move one file from one directory into another. To move a file into a directory, use mv with the source file as the first argument and destination directory as the second argument. 
@@ -47,7 +49,7 @@ RM:
 
 * The rm command is when you want to delete a file. This could be used when you no longer need a file or image.
 
-* Example: Image
+ ![RM example](/images2/RM.png)
 
 
 History:
