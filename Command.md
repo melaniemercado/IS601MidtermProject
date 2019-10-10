@@ -40,11 +40,13 @@ What if the user wanted to **go back to a previous directory?**
 ![](https://lh3.googleusercontent.com/34TUZFlCxuJen9pImaStzibxjqai2L6ctT7LbpRMuRfG8OqE7MLUSBgQC_VK6V2AtwIyp2Az3u8)
 
 - To confirm that the directory was created, list out all the directories. my_folder appears as a directory after it was created.
+
 ![](https://lh3.googleusercontent.com/UD3KAUSwneWerKpy93bWbVbQZyxPpBMvG3z_FEbr_v4SuIIG3fzMseUredmoa_yVNl1O6h-6Qug)
 
 
 
 **CP: Copy**
+
 
 - cp copies files or directories. It can be used when you want to copy an image, or files into another location.
 
