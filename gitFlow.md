@@ -55,3 +55,15 @@ In terminal, you can achieve this by entering: $ git merge [nameofwork]
 In the visual below, the new branch named "bugFix" in "C2" refers to your changes and "C4" refers to Git creating the new commit merging changes, ie. $ git merge bugFix.
 
 <img src="https://lh3.googleusercontent.com/J-fvRTCK_f3SQJoF3_ZxvSrHfoPdhnZ_wOvYJN9BnTp8u5ESMo51D2QvyvOWRGAcbcf5x7fO81A" width=400>
+
+## Checkout
+
+The git checkout command lets you move between the branches after you used git branch. Think of it as a way to select which line of development you're working on. Do remember - Git won't let you checkout another branch or move to another branch unless your working directory is clean. You would lose any changes that you do not commit.
+
+In terminal, you can achieve this by entering: $ git checkout [nameofwork].
+
+In the visual below, by using the checkout function, branch "bugFix" is now moved to the same commit as master is attached to.
+
+<img src="https://lh3.googleusercontent.com/O93DHncA4BeBt3y3k1dCZrELVxr63S2z_XCJcFtLW5G0ZgZGw2pEXuZTOuv0z0LWkyza-vOXMrM" width=400>
+
+
