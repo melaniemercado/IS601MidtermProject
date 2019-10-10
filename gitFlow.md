@@ -15,7 +15,7 @@ A repository encompasses the entire collection of files and folders associated w
 
 Here is an example of a Git repository:
 
-<img src="https://lh3.googleusercontent.com/8LC3KQCLgPb9U_Jh08R382c0D_UqtP_3L82O5fMi1Jg_ypoTB7B2BUk-jfB3O4C5BuGEPiE9Qcs" width=900>
+<img src="https://lh3.googleusercontent.com/EgVLZcjyrH0Nfj6AxuNQ_K_cPUsKy_m-l9ZWR-cF_P_kCasORThgyq4-G_wsrxtDLzrU0Cy9_2U" width=900>
 
 
 **Gitflow** is a lightweight, branch-based workflow that supports projects where deployments are made regularly. The gitFlow allows you and your team to work faster and smarter.
