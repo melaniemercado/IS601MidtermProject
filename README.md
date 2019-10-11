@@ -73,4 +73,11 @@ https://git-scm.com/book/en/v1/Getting-Started
 **_Visualization Tool to Learn Git_**
 https://learngitbranching.js.org
 
+**List of Command Line Commands**  [https://www.codecademy.com/articles/command-line-commands]
+
+**Vi** [https://en.wikipedia.org/wiki/Vi]
+
+**Docker** [https://docs.docker.com/get-started/]
+
+**History Command** [https://opensource.com/article/18/6/history-command]
 
