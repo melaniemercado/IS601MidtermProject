@@ -66,4 +66,14 @@ In the visual below, by using the checkout function, branch "bugFix" is now move
 
 <img src="https://lh3.googleusercontent.com/O93DHncA4BeBt3y3k1dCZrELVxr63S2z_XCJcFtLW5G0ZgZGw2pEXuZTOuv0z0LWkyza-vOXMrM" width=400>
 
+## Clone
+
+Very simply put - git clone allows you to create local copies of remote repositories. Generally, cloning is a one-time operation. Once you obtain a copy, all version control operations and changes are managed through the local repository.
+
+In terminal, you can achieve this by entering: $ git clone
+
+In the visual below, the commits on the left indicate your local repository and on the right indicates your remote repository. The image on the left shows "o/master" which demonstrates that both your local and remote repository are a mirror image of the other.
+
+<img src="https://lh3.googleusercontent.com/EeCHc7Rl-ZS6HtTWlN_y7Dj501pD1nI3DCu84Am_B-KDj8wue-noKZPNrKmRB4N8hfiEPbhyF4Q" width=400>
+
 
