@@ -11,19 +11,19 @@ Table of Contents:
 
 Tasks:
 - [ ] Create and complete README.md file
-- [X] Create and complete Command.md file
+- [X] Create and complete Command.md file: Ali Farrag 
 	- [X] Cd
 	- [X] Mkdir
-	- [ ] Cp
-	- [ ] Pwd
-	- [ ] Mv
-	- [ ] Rm
-	- [ ] History
-	- [ ] Home directory and ~
-	- [ ] file paths in linux
-	- [ ] Using the tab key to complete file paths
-	- [ ] Using up and down arrow for history
-- [ ] Create and complete gitFlow.md file
+	- [X] Cp
+	- [X] Pwd
+	- [X] Mv
+	- [X] Rm
+	- [X] History
+	- [X] Home directory and ~
+	- [X] file paths in linux
+	- [X] Using the tab key to complete file paths
+	- [X] Using up and down arrow for history
+- [ ] Create and complete gitFlow.md file: Melanie Mercado
 	- [X] Repository
 	- [ ] Clone
 	- [ ] Fork
