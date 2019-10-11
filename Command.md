@@ -15,6 +15,24 @@
 ![](https://lh3.googleusercontent.com/UMl_LOhLP3WklhOXK0-RfWzC0_yAw7Jid0HcN3V0F26besFzsvGPgcZdGOwpopECjw8QPMEpGwk)
 
 
+# VI 
+-**vi** is a screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the text  editor language supported within these programs, is described by (and thus standardized by) the [Single Unix Specification.
+
+To edit open a file using Vi, simply type in vi "filename.md" 
+
+![](https://lh3.googleusercontent.com/aZ9vt3BaVMGaioRaFdTvQioKFjAhiTn5YTm4w4HglWwcDfcw-oAkZOSj8frGKgIa6GTok9Cbx_s)
+
+Then press 'I' to enable to text editor
+
+![](https://lh3.googleusercontent.com/cyXJZGsFmWEW-GbH5XqFDzsC3XrLXaXacrY5BxMNfgFPlGXI_UUb9QpvPCzf38j2snv2j9hYT_Y)
+
+Once you're done with your edits, press the **esc**, then *shift + :*, this will allow you to type **wq** which will save and close the file. 
+
+![enter image description here](https://lh3.googleusercontent.com/GAxFdo2-NkdLdmlJ9pYRdjNn1ECV4ebDPHjaWGJdZrGiGiGyqw3kKXryDnhjWZme7EF7WTsoits)
+
+*Thats how you use VI!**
+
+
 # Commands
 
 <center>**CD: Change Directory**</center>
