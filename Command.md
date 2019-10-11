@@ -79,7 +79,7 @@ What if the user wanted to **go back to a previous directory?**
 ![](https://lh3.googleusercontent.com/f8C6ss1KanuLDF8PJjLZtCdszSsDgfYFvt2buaAC6h6-HMFgJh22v5l84OTkZTyS3Nj3IPXb-hY)
 
 
-**Home Directory and ~**
+**Home Directory and ~** 
 
 - A **home directory** is a file system directory on a multi-user operating system containing files for a given user of the system. The specifics of the home directory (such as its name and location) are defined by the operating system involved; for example, Linuxhome/*username* and Windows systems between 2000 and Server 2003 keep home directories in a folder called Documents and Settings
 
@@ -96,3 +96,12 @@ What if the user wanted to **go back to a previous directory?**
 
 ![enter image description here](https://lh3.googleusercontent.com/IN9zDgWDUpR_FrTiBzT951PYYdtLjbVaOXvwAJZa6P8wbL5ohQVWbM2orecYh-B5fjPonc4ejYk)
   
+
+**Using the tab key to complete file paths**
+
+- Usually in a Unix/Linux terminal when you press tab it will autocomplete with several options and then it will list the options below for you to select. This is a great feature if you spend a lot of time in the terminal. **However, you have to enable it.** 
+
+> Below are the steps to enable auto-complete file paths for mac. 
+
+![](https://lh3.googleusercontent.com/1a500nlZxO4iRw64TpApbdPtPtWJbtiabVDLy22C0-jK_fD7wrj4LR7k-EJj5DQmofmXOkYg1yc)
+
