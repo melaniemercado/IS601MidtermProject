@@ -79,7 +79,7 @@ What if the user wanted to **go back to a previous directory?**
 ![](https://lh3.googleusercontent.com/f8C6ss1KanuLDF8PJjLZtCdszSsDgfYFvt2buaAC6h6-HMFgJh22v5l84OTkZTyS3Nj3IPXb-hY)
 
 
-**Home Directory and ~** 
+**Home Directory and '~'** 
 
 - A **home directory** is a file system directory on a multi-user operating system containing files for a given user of the system. The specifics of the home directory (such as its name and location) are defined by the operating system involved; for example, Linuxhome/*username* and Windows systems between 2000 and Server 2003 keep home directories in a folder called Documents and Settings
 
@@ -104,4 +104,17 @@ What if the user wanted to **go back to a previous directory?**
 > Below are the steps to enable auto-complete file paths for mac. 
 
 ![](https://lh3.googleusercontent.com/1a500nlZxO4iRw64TpApbdPtPtWJbtiabVDLy22C0-jK_fD7wrj4LR7k-EJj5DQmofmXOkYg1yc)
+
+
+**Using Up and Down Arrows for History**
+
+-  The Terminal tracks your command history—that is, it keeps a record of the commands you’ve used, and you can scroll through those historical commands. **Press the Up Arrow key from the command prompt, and you’ll see the most-recently used command**; each additional press moves further back through history, and the **Down Arrow key moves forward in the history file.**
+
+> below you'll see what the terminal looks like before the Up arrow is selected. 
+
+![](https://lh3.googleusercontent.com/KH1T593u0GzBPTzoD81U4ANTed4ISsEkRg-nyT2V8bWlO4HtTFHd6r77kIfxlGTA7Bvn1I7K9VQ)
+
+>Below you'll see that pressing the Up arrow will bring the last typed out command. 
+
+![](https://lh3.googleusercontent.com/KrDEbS8VDEUQ7bpdq4iAkwKp_54Hv8A9-ojTwnUSJqnDxtVmWC_QgmE15ug5Gj8NZap7mwEEt6k)
 
