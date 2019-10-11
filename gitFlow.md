@@ -36,6 +36,7 @@ In the visual shown below, a commit looks as simple as another recorded snapshot
 
 <img src="https://lh3.googleusercontent.com/4W5_UgA3GTftLRcE_WhJBaovioDrUt9fhNgsK-n2P3cv-91rUz5__HdE35MtpSglzblAOkNjYYQ" width=400>
 
+
 ## Branch
 
 Let's say you're doing some work on a website and your employer tells you there's an urgent fix that needs to be applied on a different section of the website. You don't need to deploy your fix or put a lot of effort to revert your changes. All you have to do is switch to the production master branch, create a branch to make your changes, merge the branch, and deploy to production. Then you can switch back to your branch and continue your own work. 
@@ -45,6 +46,7 @@ In terminal, you can achieve this by entering: $ git branch [nameofbranch]
 In the visual below, the new branch named "newImage" now refers to "C1", eg. $ git branch newImage
 
 <img src="https://lh3.googleusercontent.com/-W8nMI1o8RgjXOy_f_6OLgBZUQjlA5XEp3-RN3f_JbGyJrlowtm35jTGdKHNaZ38-pPnzBoGhz8" width=400>
+
 
 ## Merge
 
@@ -56,6 +58,7 @@ In the visual below, the new branch named "bugFix" in "C2" refers to your change
 
 <img src="https://lh3.googleusercontent.com/J-fvRTCK_f3SQJoF3_ZxvSrHfoPdhnZ_wOvYJN9BnTp8u5ESMo51D2QvyvOWRGAcbcf5x7fO81A" width=400>
 
+
 ## Checkout
 
 The git checkout command lets you move between the branches after you used git branch. Think of it as a way to select which line of development you're working on. Do remember - Git won't let you checkout another branch or move to another branch unless your working directory is clean. You would lose any changes that you do not commit.
@@ -65,6 +68,7 @@ In terminal, you can achieve this by entering: $ git checkout [nameofwork].
 In the visual below, by using the checkout function, branch "bugFix" is now moved to the same commit as master is attached to.
 
 <img src="https://lh3.googleusercontent.com/O93DHncA4BeBt3y3k1dCZrELVxr63S2z_XCJcFtLW5G0ZgZGw2pEXuZTOuv0z0LWkyza-vOXMrM" width=400>
+
 
 ## Clone
 
@@ -76,6 +80,7 @@ In the visual below, the commits on the left indicate your local repository and 
 
 <img src="https://lh3.googleusercontent.com/EeCHc7Rl-ZS6HtTWlN_y7Dj501pD1nI3DCu84Am_B-KDj8wue-noKZPNrKmRB4N8hfiEPbhyF4Q" width=400>
 
+
 ## Pull
 
 Whereas cloning is normally used as the initial copy of a remote repository to create a local repository, the pull function allows you to update your local with any changes that occurred after the initial copy you did of the remote repository. It can also be seen as a merge of remote changes into your local repository.
@@ -85,6 +90,7 @@ In terminal, you can achieve this by entering: $ git pull [remote]
 In the visual below, the left side represents your local directory. The pull function fetches "C3" commit not currently in your local repository. In order to merge the changes from remote, a new master commit "C4" appears and changes your origin/master to the latest data fetched.
 
 <img src="https://lh3.googleusercontent.com/c5ZP1S37b_U_HkP-xYWstAKqH7NY6rfg7HxyPVgUzMhGc0Nkq-p4QqdcsJDwGMe5U31fGlUPBpQ" width=400>
+
 
 ## Push
 
@@ -96,12 +102,14 @@ In the visual below, simply put, your left side represents your local repository
 
 <img src="https://lh3.googleusercontent.com/WzeHZzOjiMi_FGdzPhnuMqzGM5PRqMDoIw58g_RGvx-pD_tdOcaX21jJKcwQ9QHeNCwpkVmuios" width=400>
 
+
 ## Fork
 
 A fork  is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 You might fork a project in order to propose changes to the upstream, or original, repository. In this case, it's good practice to regularly sync your fork with the upstream repository. 
 
 <img src="https://lh3.googleusercontent.com/PRUR_BDZuRnOgGXoSyiIgicSgd9mq6PPRlFkzTmIPXH6R250QSlXBBhyjx9vfWJqAUR12GCprlc" width=700>
+
 
 ## Remote Add / Remove / Show
 
@@ -115,8 +123,23 @@ To add a new remote Git repository as a shortname you can reference easily, run 
 
 <img src="https://lh3.googleusercontent.com/-_FIhmZ-m47A6LyMW4dSgEjvySJcGUJ-nuUXP3_T-VIo4a-PMNEtl5gPgvho3URkAvf0v5NhA-k" width=400>
 
+
+
 If you want to remove a remote for some reason — you’ve moved the server or perhaps a contributor isn’t contributing anymore — you can either use $ git remote remove or $ git remote rm. Once you delete the reference to a remote this way, all remote-tracking branches and configuration settings associated with that remote are also deleted.
 
 <img src="https://lh3.googleusercontent.com/9Wenq25CGbDfVZP7uX4CV9_1pv5XA_iXUTPFP006EAuSKAeTrv7MN5l7uFE2FCKhRe2LpwgHb0c" width=400>
+
+
+## Status
+
+The git status command can be used to explore the state of the staging area and pending commit.
+
+The command checks the status and reports that there’s nothing to commit, meaning the repository stores the current state of the working directory, and there are no changes to record.
+
+It's good practice to check the state of your repository before committing changes so that you don't accidentally commit something you don't mean to. This example displays the repository status before and after staging and committing a snapshot:
+
+
+<img src="https://lh3.googleusercontent.com/eYZqOj5aNUAJ_vvydRFOrFPZI8iJ8gGk-dcEb404d92JFp9b-9NktE178ri8tXyx7I8W0zKs-SI" width=500>
+
 
 
