@@ -12,7 +12,7 @@ Containerization is increasingly popular because containers are:
 -   Scalable: You can increase and automatically distribute container replicas across a datacenter.
 -   Secure: Containers apply aggressive constraints and isolations to processes without any configuration required on the part of the user.
 
-# Build and Test your Image:
+# Build and test your image:
 
 1) Now that we have some source code and a Dockerfile, it’s time to build our first image, and make sure the containers launched from it work as expected. 
 
