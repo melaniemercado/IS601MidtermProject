@@ -13,7 +13,7 @@
 ## Tasks:
 
 #### Contributor(s): Ali Farrag & Melanie Mercado
-- [ ] Create and complete README.md file
+- [X] Create and complete README.md file
 
 #### Contributor(s): Ali Farrag
 - [X] Create and complete Command.md fileg 
@@ -48,7 +48,21 @@
 - [X] Update all links to tutorials
 
 
-## Links to Further Reading:
+### Links to Further Reading:
 
+**_GitHub_**
+https://github.com
+
+**_Git Glossary_**
+https://www.git-tower.com/learn/git/glossary
+
+**_Basic Git Commands_**
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+**_Understanding Git_**
+https://git-scm.com/book/en/v1/Getting-Started
+
+**_Visualization Tool to Learn Git_**
+https://learngitbranching.js.org
 
 
