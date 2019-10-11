@@ -2,6 +2,13 @@
 
 # IS601 - Midterm Project #1
 
+#### **_Tools like Git and Docker all aim to achieve the same goal - improve productivity and competitiveness. These tools help teams build, test, and release faster and more reliably. When group members work in silos, there is no trust and no collaboration. This inevitably leads to misaligned priorities and substandard quality of work. These methods and tools ultimately lead to help development and operation teams be more efficient, innovate faster, and deliver higher value to the business and its customers._** 
+
+#### **_In this repository, we will be going over basic Command and Gitflow functions as well as their relevancy to development teams._**
+
+
+
+
 ## Contributors:
 - Melanie Mercado
 - Ali Farrag
