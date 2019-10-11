@@ -81,3 +81,11 @@ https://learngitbranching.js.org
 
 **History Command** [https://opensource.com/article/18/6/history-command]
 
+**List of Command Line Commands**  [https://www.codecademy.com/articles/command-line-commands](https://www.codecademy.com/articles/command-line-commands)
+
+**Vi** [https://en.wikipedia.org/wiki/Vi](https://en.wikipedia.org/wiki/Vi)
+
+**Docker** [https://docs.docker.com/get-started/](https://docs.docker.com/get-started/)
+
+**History Command** [https://opensource.com/article/18/6/history-command](https://opensource.com/article/18/6/history-command)
+
