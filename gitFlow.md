@@ -76,4 +76,14 @@ In the visual below, the commits on the left indicate your local repository and 
 
 <img src="https://lh3.googleusercontent.com/EeCHc7Rl-ZS6HtTWlN_y7Dj501pD1nI3DCu84Am_B-KDj8wue-noKZPNrKmRB4N8hfiEPbhyF4Q" width=400>
 
+## Pull
 
+Whereas cloning is normally used as the initial copy of a remote repository to create a local repository, the pull function allows you to update your local with any changes that occurred after the initial copy you did of the remote repository. It can also be seen as a merge of remote changes into your local repository.
+
+In terminal, you can achieve this by entering: $ git pull [remote]
+
+In the visual below, the left side represents your local directory. The pull function fetches "C3" commit not currently in your local repository. In order to merge the changes from remote, a new master commit "C4" appears and changes your origin/master to the latest data fetched.
+
+<img src="https://lh3.googleusercontent.com/c5ZP1S37b_U_HkP-xYWstAKqH7NY6rfg7HxyPVgUzMhGc0Nkq-p4QqdcsJDwGMe5U31fGlUPBpQ" width=400
+
+>
