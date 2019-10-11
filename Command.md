@@ -77,4 +77,12 @@ What if the user wanted to **go back to a previous directory?**
 - In its most simple form, you can run the ‘history’ command by itself and it will simply print out the bash history of the current user to the screen. Commands are numbered, with older commands at the top and newer commands at the bottom.
 
 ![](https://lh3.googleusercontent.com/f8C6ss1KanuLDF8PJjLZtCdszSsDgfYFvt2buaAC6h6-HMFgJh22v5l84OTkZTyS3Nj3IPXb-hY)
-  
+
+
+**Home Directory and ~**
+
+- A **home directory** is a file system directory on a multi-user operating system containing files for a given user of the system. The specifics of the home directory (such as its name and location) are defined by the operating system involved; for example, Linuxhome/*username* and Windows systems between 2000 and Server 2003 keep home directories in a folder called Documents and Settings
+
+- **~** (_tilde_) is an alias for **home** directory.
+> Below is an example of the Home Directory 
+![](https://lh3.googleusercontent.com/MZk_xav5aUQIs8E7MQvWh338MVEOIRsgnw6eekstU5hgHt0O5V5rvgKeQJY61fw74fxfaqjnD9M)  
