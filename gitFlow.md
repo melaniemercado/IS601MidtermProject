@@ -142,4 +142,8 @@ It's good practice to check the state of your repository before committing chang
 <img src="https://lh3.googleusercontent.com/eYZqOj5aNUAJ_vvydRFOrFPZI8iJ8gGk-dcEb404d92JFp9b-9NktE178ri8tXyx7I8W0zKs-SI" width=500>
 
 
+## Master Branch
+
+In Git, "master" is a naming convention for a branch. After cloning a project from a remote repository, the resulting local repository has a single local branch: the so-called "master" branch. This means that "master" can be seen as a repository's "default" branch.
+
 
