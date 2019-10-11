@@ -101,6 +101,20 @@ In the visual below, simply put, your left side represents your local repository
 A fork  is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 You might fork a project in order to propose changes to the upstream, or original, repository. In this case, it's good practice to regularly sync your fork with the upstream repository. 
 
-<img src="https://lh3.googleusercontent.com/PRUR_BDZuRnOgGXoSyiIgicSgd9mq6PPRlFkzTmIPXH6R250QSlXBBhyjx9vfWJqAUR12GCprlc" width=900>
+<img src="https://lh3.googleusercontent.com/PRUR_BDZuRnOgGXoSyiIgicSgd9mq6PPRlFkzTmIPXH6R250QSlXBBhyjx9vfWJqAUR12GCprlc" width=700>
+
+## Remote Add / Remove / Show
+
+The remote command lets you create, view, and delete connections to other repositories. Remote connections are more like bookmarks rather than direct links into other repositories. 
+
+To show a remote repository, you can run $ git ls-remote.
+
+To add a new remote Git repository as a shortname you can reference easily, run $ git remote add < shortname > < url >.
+
+<img src="https://lh3.googleusercontent.com/-_FIhmZ-m47A6LyMW4dSgEjvySJcGUJ-nuUXP3_T-VIo4a-PMNEtl5gPgvho3URkAvf0v5NhA-k" width=400>
+
+If you want to remove a remote for some reason — you’ve moved the server or perhaps a contributor isn’t contributing anymore — you can either use $ git remote remove or $ git remote rm. Once you delete the reference to a remote this way, all remote-tracking branches and configuration settings associated with that remote are also deleted.
+
+<img src="https://lh3.googleusercontent.com/9Wenq25CGbDfVZP7uX4CV9_1pv5XA_iXUTPFP006EAuSKAeTrv7MN5l7uFE2FCKhRe2LpwgHb0c" width=400>
 
 
