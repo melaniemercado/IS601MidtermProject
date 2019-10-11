@@ -1,3 +1,5 @@
+<img align="right" width="350" height="290" src="https://lh3.googleusercontent.com/a2Sut9l-V1xGbhxFueJmtIIxqSd0LTCwa8FYpxRmRXDiq39KEKp3b9TtIeEFPlt4I8wQ9_6ZuZ8">
+
 # IS601 - Midterm Project #1
 
 ## Contributors:
