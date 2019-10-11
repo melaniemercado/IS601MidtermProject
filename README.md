@@ -1,17 +1,20 @@
 # IS601 - Midterm Project #1
 
-Contributors:
+## Contributors:
 - Melanie Mercado
 - Ali Farrag
 
-Table of Contents:
+## Table of Contents:
 * [Command Line Tutorial](/Command.md)
 * [gitFlow Tutorial](/gitFlow.md)
-* [Change Log](/changelog.md)
 
-Tasks:
+## Tasks:
+
+#### Contributor(s): Ali Farrag & Melanie Mercado
 - [ ] Create and complete README.md file
-- [X] Create and complete Command.md file: Ali Farrag 
+
+#### Contributor(s): Ali Farrag
+- [X] Create and complete Command.md fileg 
 	- [X] Cd
 	- [X] Mkdir
 	- [X] Cp
@@ -23,18 +26,27 @@ Tasks:
 	- [X] file paths in linux
 	- [X] Using the tab key to complete file paths
 	- [X] Using up and down arrow for history
-- [ ] Create and complete gitFlow.md file: Melanie Mercado
+
+#### Contributor(s): Melanie Mercado
+- [X] Create and complete gitFlow.md file
 	- [X] Repository
-	- [ ] Clone
-	- [ ] Fork
+	- [X] Clone
+	- [X] Fork
 	- [X] Branch
 	- [X] Commit
 	- [X] Merge
-	- [ ] Checkout
-	- [ ] Push
-	- [ ] Pull
-	- [ ] Remote Add / Remove / Show
-	- [ ] Status
-	- [ ] Master Branch
-- [ ] Create and complete Changelog.md file
-- [ ] Update all links to tutorials
+	- [X] Checkout
+	- [X] Push
+	- [X] Pull
+	- [X] Remote Add / Remove / Show
+	- [X] Status
+	- [X] Master Branch
+
+#### Contributor(s): Ali Farrag & Melanie Mercado
+- [X] Update all links to tutorials
+
+
+## Links to Further Reading:
+
+
+
