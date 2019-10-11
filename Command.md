@@ -85,4 +85,14 @@ What if the user wanted to **go back to a previous directory?**
 
 - **~** (_tilde_) is an alias for **home** directory.
 > Below is an example of the Home Directory 
-![](https://lh3.googleusercontent.com/MZk_xav5aUQIs8E7MQvWh338MVEOIRsgnw6eekstU5hgHt0O5V5rvgKeQJY61fw74fxfaqjnD9M)  
+
+![](https://lh3.googleusercontent.com/MZk_xav5aUQIs8E7MQvWh338MVEOIRsgnw6eekstU5hgHt0O5V5rvgKeQJY61fw74fxfaqjnD9M)
+
+**File Paths in Linux**
+
+- A file path is the human-readable representation of a file or folder’s location on a computer system. You’ve seen file paths, although you may not realize it, on the internet: An internet URL, despite ancient battles fought by proprietary companies like AOL and CompuServe, is actually just a path to a (sometimes dynamically created) file on someone else’s computer. For instance, when you navigate to example.com/index.html, you are actually viewing the HTML file index.html, probably located in the **var** directory on the example.com server. Files on your computer have file paths, too, and this article explains how to understand them, and why they’re important.
+
+> The highlighted portion on this terminal is an example of a *file path*
+
+![enter image description here](https://lh3.googleusercontent.com/IN9zDgWDUpR_FrTiBzT951PYYdtLjbVaOXvwAJZa6P8wbL5ohQVWbM2orecYh-B5fjPonc4ejYk)
+  
