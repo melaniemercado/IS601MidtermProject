@@ -30,7 +30,7 @@ Once you're done with your edits, press the **esc**, then *shift + :*, this will
 
 ![enter image description here](https://lh3.googleusercontent.com/GAxFdo2-NkdLdmlJ9pYRdjNn1ECV4ebDPHjaWGJdZrGiGiGyqw3kKXryDnhjWZme7EF7WTsoits)
 
-*Thats how you use VI!**
+*Thats how you use VI!*
 
 
 # Commands
