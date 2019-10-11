@@ -84,6 +84,16 @@ In terminal, you can achieve this by entering: $ git pull [remote]
 
 In the visual below, the left side represents your local directory. The pull function fetches "C3" commit not currently in your local repository. In order to merge the changes from remote, a new master commit "C4" appears and changes your origin/master to the latest data fetched.
 
-<img src="https://lh3.googleusercontent.com/c5ZP1S37b_U_HkP-xYWstAKqH7NY6rfg7HxyPVgUzMhGc0Nkq-p4QqdcsJDwGMe5U31fGlUPBpQ" width=400
+<img src="https://lh3.googleusercontent.com/c5ZP1S37b_U_HkP-xYWstAKqH7NY6rfg7HxyPVgUzMhGc0Nkq-p4QqdcsJDwGMe5U31fGlUPBpQ" width=400>
 
->
+## Push
+
+The push command is used to upload local repository content to a remote repository. Whereas fetching imports commits to local branches, pushing exports commits to remote branches. This is how you publish your work.
+
+In terminal, you can achieve this by entering: $ git push [remote] [branch] or for example, $ git push origin master
+
+In the visual below, simply put, your left side represents your local repository in which "C2" represents your current state. On the right side, the remote was at the "C1" commit but after using the push function, now has a "C2" commit as well. This represents that your local origin/master and the remote are in sync.
+
+<img src="https://lh3.googleusercontent.com/WzeHZzOjiMi_FGdzPhnuMqzGM5PRqMDoIw58g_RGvx-pD_tdOcaX21jJKcwQ9QHeNCwpkVmuios" width=400>
+
+
