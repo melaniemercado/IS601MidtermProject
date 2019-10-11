@@ -105,6 +105,8 @@ You might fork a project in order to propose changes to the upstream, or origina
 
 ## Remote Add / Remove / Show
 
+<img align="right" width="350" height="290" src="https://lh3.googleusercontent.com/JVWMnHgkLdQu_IbyLLrZVy2pzwOxLl_abSNEfw1gkicUTRS4bzxhjfH0_bhPmZ2aaNeJDXSWG4Q">
+
 The remote command lets you create, view, and delete connections to other repositories. Remote connections are more like bookmarks rather than direct links into other repositories. 
 
 To show a remote repository, you can run $ git ls-remote.
