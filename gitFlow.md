@@ -96,4 +96,11 @@ In the visual below, simply put, your left side represents your local repository
 
 <img src="https://lh3.googleusercontent.com/WzeHZzOjiMi_FGdzPhnuMqzGM5PRqMDoIw58g_RGvx-pD_tdOcaX21jJKcwQ9QHeNCwpkVmuios" width=400>
 
+## Fork
+
+A fork  is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+You might fork a project in order to propose changes to the upstream, or original, repository. In this case, it's good practice to regularly sync your fork with the upstream repository. 
+
+<img src="https://lh3.googleusercontent.com/PRUR_BDZuRnOgGXoSyiIgicSgd9mq6PPRlFkzTmIPXH6R250QSlXBBhyjx9vfWJqAUR12GCprlc" width=900>
+
 
