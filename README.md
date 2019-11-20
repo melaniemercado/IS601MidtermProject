@@ -17,6 +17,7 @@
 * [Command Line Tutorial](/Command.md)
 * [gitFlow Tutorial](/gitFlow.md)
 * [Docker Tutorial](/Docker.md)
+* [Python Definitions](/PythonDefinitions.md)
 
 ## Tasks:
 
