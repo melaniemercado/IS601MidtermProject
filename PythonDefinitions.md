@@ -8,7 +8,9 @@
 6) Static
 7) Property / Attribute
 8) Method
-9) Exception
+9) Exception:
+
+    An exception is a breakpoint that can be set on executable lines of code. This allows you to suspend program execution at a specific point and examine its behavior.
 
 10) Unit Test:
 
