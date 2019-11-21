@@ -1,13 +1,31 @@
 ### Python Definitions:
 
-1) How Python uses Indentation to control Flow
-2) Don't Repeat Yourself
-3) Design Patterns from Gang of Four
-4) Class
-5) Object
-6) Static
-7) Property / Attribute
-8) Method
+1) How Python uses Indentation to control Flow:
+    Python uses whitespace (i.e. indentation) to delimit scope:
+Its rules are that: One or more whitespace characters (spaces or tabs) is sufficient to serve as indentation. A given indented block must use a uniform level of indentation.
+
+2) Don't Repeat Yourself:
+    Don't repeat yourself (DRY, or sometimes do not repeat yourself) is a principle of software development aimed at reducing repetition of software patterns,[1] replacing it with abstractions or using data normalization to avoid redundancy.
+
+3) Design Patterns from Gang of Four:
+    The GoF Design Patterns are broken into three categories: Creational Patterns for the creation of objects; Structural Patterns to provide relationship between objects; and finally, Behavioral Patterns to help define how objects interact.
+
+
+4) Class:
+    A class is a code template for creating objects. Objects have member variables and have behaviour associated with them. In python a class is created by the keyword class . An object is created using the constructor of the class. This object will then be called the instance of the class
+
+5) Object:
+    Python is an object oriented programming language. Unlike procedure oriented programming, where the main emphasis is on functions, object oriented programming stress on objects. Object is simply a collection of data (variables) and methods (functions) that act on those data. And, class is a blueprint for the object
+
+6) Static:
+    Static means, that the member is on a class level rather on the instance level. Static variables exist only in single instance per class and are not instantiated. If a static variable is changed in one instance of the class, the change will affect its value in all other instances.
+
+
+7) Property / Attribute:
+    Attributes are described by data variables for example like name, age, height etc. Properties are special kind of attributes which have getter, setter and delete methods like __get__, __set__ and __delete__ methods. ... In Python, you can define getters, setters, and delete methods with the property function.
+8) Method:
+    In Python, a method is a function that is available for a given object because of the object's type.
+
 9) Exception:
 
     An exception is a breakpoint that can be set on executable lines of code. This allows you to suspend program execution at a specific point and examine its behavior.
